@@ -1,0 +1,8 @@
+last backup - 05/14/2015
+to file - C:\SomeFolderName\EmailDemo(My_Backup_of_EmailDemo)[1].zip
+================================================================================
+C:\Users\Chr\Desktop\AlphaProjects\Alpha Projects\AlphaEmailDemo\EmailDemo.adb Backed Up
+C:\Users\Chr\Desktop\AlphaProjects\Alpha Projects\AlphaEmailDemo\EmailDemo.alb Backed Up
+C:\Users\Chr\Desktop\AlphaProjects\Alpha Projects\AlphaEmailDemo\EmailDemo.alm Backed Up
+C:\Users\Chr\Desktop\AlphaProjects\Alpha Projects\AlphaEmailDemo\EmailDemo.alx Backed Up
+C:\Users\Chr\Desktop\AlphaProjects\Alpha Projects\AlphaEmailDemo\EmailDemo.WebProjects\Default.WebProject\EmailDemo.a5wcmp Backed Up
